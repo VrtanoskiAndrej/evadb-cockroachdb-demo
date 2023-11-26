@@ -1,0 +1,3 @@
+evadb
+tqdm
+psycopg2
